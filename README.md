@@ -1,4 +1,4 @@
-# Hi, I'm Charles Ranaweera 👋 
+# Hi, I'm Charles Ranaweera 👋  
 🚀 AWS Certified Cloud Engineer | Terraform | Kubernetes | Jenkins | DevSecOps | Python  
 
 🔹 **Cloud Skills:** AWS, Azure, Terraform, Kubernetes, CI/CD  
